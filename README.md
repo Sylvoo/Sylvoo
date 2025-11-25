@@ -19,8 +19,8 @@ In my free time, I try to expand my interests by designing electronic gadgets, e
 ## 🧰 Technologies and Tools  
 - **Languages**: C, C++, Python, Assembly
 - **Platforms & Hardware**: STM32, ATmega328PB, ESP32, Arduino  
-- **Concepts**: Embedded firmware, OOP, TinyML, EdgeAI, TensorFlow
-- **Tools**: Git, GitHub, STM32CubeIDE, Visual Studio Code, NanoEdgeAI Studio, Ollama
+- **Concepts**: Embedded firmware, TinyML, EdgeAI, Ai
+- **Tools**: Git, GitHub, STM32CubeIDE, Visual Studio Code, NanoEdgeAI Studio, Ollama, Tensorflow
 
 ---
 
