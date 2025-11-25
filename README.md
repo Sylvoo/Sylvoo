@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, Buddy! 👋  
+## About Me 👩‍💻
+I am a student at AGH University of Science and Technology in Kraków.  
+Field of study: Electronics and Telecommunications (EIT)  
+Location: Kraków, Poland  
 
-<!--
-**Sylvoo/Sylvoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🖥️💡 I am passionate about electronics, with an emphasis on microcontrollers, AI, EdgeAI, TinyML, IoT, and embedded systems.  
+In my free time, I try to expand my interests by designing electronic gadgets, exploring EdgeAI, and broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Artificial Intelligence (AI) and digital signal processing (DSP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently focused on:
+  - Microcontrollers (STM32, ESP32, ATmega328PB), embedded firmware, programming in C/C++
+  - EdgeAI/TinyML (TensorFlow, NanoEdgeAI Studio, STM32Cube.AI)
+  - Artificial Intelligence development
+
+---
+
+## 🧰 Technologies and Tools  
+- **Languages**: C, C++, Python, Assembly
+- **Platforms & Hardware**: STM32, ATmega328PB, ESP32, Arduino  
+- **Concepts**: Embedded firmware, OOP, TinyML, EdgeAI, TensorFlow
+- **Tools**: Git, GitHub, STM32CubeIDE, Visual Studio Code, NanoEdgeAI Studio, Ollama
+
+---
+
+## 📫 Contact  
+If you have any questions or want to discuss a project, feel free to reach out!  
+- Email: sylslu04@gmail.com
