@@ -7,7 +7,7 @@ Location: Kraków, Poland
 ---
 
 🖥️💡 I am passionate about electronics, with an emphasis on microcontrollers, AI, EdgeAI, TinyML, IoT, and embedded systems.  
-In my free time, I try to expand my interests by designing electronic gadgets, exploring EdgeAI, and broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Artificial Intelligence (AI) and digital signal processing (DSP).
+In my free time, I try to expand my interests by designing electronic gadgets, exploring EdgeAI, and broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Computer Networking, Artificial Intelligence developing (AI) and digital signal processing (DSP).
 
 - Currently focused on:
   - Microcontrollers (STM32, ESP32, ATmega328PB), embedded firmware, programming in C/C++
