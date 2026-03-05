@@ -6,7 +6,7 @@ Location: Kraków, Poland
 
 ---
 
-🖥️💡 I am passionate about electronics, with an emphasis on microcontrollers, IoT, AI, EdgeAI, TinyML, IoT, and embedded systems.  
+I am passionate about electronics, with an emphasis on microcontrollers, IoT, AI, EdgeAI, TinyML, IoT, and embedded systems.  
 In my free time, I try to expand my interests by designing electronic gadgets, exploring EdgeAI, and broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Computer Networking, Artificial Intelligence developing (AI) and digital signal processing (DSP).
 
 - Currently focused on:
@@ -16,7 +16,7 @@ In my free time, I try to expand my interests by designing electronic gadgets, e
 
 ---
 
-## 🧰 Technologies and Tools  
+## Technologies and Tools  
 - **Languages**: C, C++, Python, Assembly
 - **Platforms & Hardware**: STM32, ATmega328PB, ESP32, Arduino  
 - **Concepts**: Embedded, firmware, TinyML, EdgeAI, Ai, IoT
@@ -24,6 +24,6 @@ In my free time, I try to expand my interests by designing electronic gadgets, e
 
 ---
 
-## 📫 Contact  
+## Contact  
 If you have any questions or want to discuss a project, feel free to reach out!  
 - Email: sylslu04@gmail.com
