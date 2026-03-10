@@ -6,9 +6,8 @@ Location: Kraków, Poland
 
 ---
 
-I am passionate about electronics, with an emphasis on microcontrollers, IoT, AI, EdgeAI, TinyML, IoT, and embedded systems.  
-In my free time, I try to expand my interests by designing electronic gadgets, exploring EdgeAI, and broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Computer Networking, Artificial Intelligence developing (AI) and digital signal processing (DSP).
-
+I am passionate about electronics and programming, with an emphasis on microcontrollers, IoT, AI, ML, IoT, and embedded systems.  
+In my free time, I try to expand my knowledge about AI, exploring EdgeAI and utilizing AI tools, I also broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Computer Networking, Unix Network Programming and 5G technologies.
 - Currently focused on:
   - Microcontrollers (STM32, ESP32, ATmega328PB), embedded firmware, IoT, programming in C/C++
   - EdgeAI/TinyML (TensorFlow, NanoEdgeAI Studio, STM32Cube.AI)
@@ -17,10 +16,10 @@ In my free time, I try to expand my interests by designing electronic gadgets, e
 ---
 
 ## Technologies and Tools  
-- **Languages**: C, C++, Python, Assembly
-- **Platforms & Hardware**: STM32, ATmega328PB, ESP32, Arduino  
+- **Languages**: C, C++, Python
+- **Platforms & Hardware**: STM32, ATmega328PB, ESP32
 - **Concepts**: Embedded, firmware, TinyML, EdgeAI, Ai, IoT
-- **Tools**: Git, GitHub, STM32CubeIDE, Visual Studio Code, NanoEdgeAI Studio, Ollama, Tensorflow, ESP-IDF
+- **Tools**: Git, STM32CubeIDE, VS Code, Tensorflow, ESP-IDF
 
 ---
 
