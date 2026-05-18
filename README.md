@@ -10,7 +10,7 @@ I am passionate about electronics and programming, with an emphasis on microcont
 In my free time, I try to expand my knowledge about AI, exploring EdgeAI and utilizing AI tools, I also broadening my knowledge of programming, which brings me great satisfaction. I also have basic knowledge of Computer Networking, Unix Network Programming and 5G technologies.
 - Currently focused on:
   - Microcontrollers (STM32, ESP32, ATmega328PB), embedded firmware, IoT, programming in C/C++
-  - EdgeAI/TinyML (TensorFlow, NanoEdgeAI Studio, STM32Cube.AI)
+  - EdgeAI/TinyML (TensorFlow, STM32 CubeAi Studio)
   - Artificial Intelligence development
 
 ---
