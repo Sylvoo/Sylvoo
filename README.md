@@ -2,9 +2,11 @@
 
 ## About Me 👩‍💻
 
-I am a student at **AGH University of Science and Technology in Kraków**.
-**Field of study:** Electronics and Telecommunications
-**Location:** Kraków, Poland
+I am a student at **AGH University of Science and Technology**
+
+**Field of Study: Electronics and Telecommunications**
+
+**Kraków, Poland**
 
 ---
 
