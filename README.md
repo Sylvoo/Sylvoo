@@ -10,13 +10,13 @@ I am a student at **AGH University of Science and Technology**
 
 ---
 
-I am passionate about **electronics, programming, embedded systems, artificial intelligence, and game development**. My main interests include microcontrollers, IoT systems, ARM Cortex-M architecture, RTOS-based firmware, EdgeAI, TinyML, machine learning, and software development.
+I am passionate about **electronics, programming, embedded systems, artificial intelligence**. My main interests include microcontrollers, IoT systems, ARM Cortex-M architecture, RTOS-based firmware, EdgeAI, TinyML, machine learning, and software development.
 
-I work mainly with **C, C++, Python, and C#**. In embedded development, I focus on microcontrollers such as **STM32, ESP32, and ATmega328PB**, as well as ARM-based systems, especially **ARM Cortex-M**. I am also interested in developing RTOS-based applications using **CMSIS-RTOS v2** and **FreeRTOS**.
+I work mainly with **C, C++, Python, and C#**. In embedded development, I focus on microcontrollers such as **STM32, ESP32, and ATmega328PB**, as well as ARM-based systems, especially **ARM Cortex-M**. I am also interested in developing RTOS-based applications using **FreeRTOS**.
 
-In the AI area, I explore **EdgeAI**, **TinyML**, **TensorFlow**, and **STM32Cube.AI Studio**, with a focus on combining low-level embedded programming with modern AI-based solutions.
+In the AI area, I explore **EdgeAI**, **TinyML**, **AI Agents Workflows**, with a focus on combining low-level embedded programming with modern AI-based solutions.
 
-I also develop my programming skills in the area of **GameDev**, especially using **C#**, while paying attention to clean code, software architecture, **SOLID principles**, and **design patterns**.
+I also develop my programming skills while paying attention to clean code, software architecture, **SOLID principles**, and **design patterns**.
 
 I have basic knowledge of **computer networking** and **Unix network programming**. In my free time, I enjoy expanding my technical knowledge, experimenting with AI tools, and working on projects that connect electronics, software, and intelligent systems.
 
@@ -36,28 +36,24 @@ I have basic knowledge of **computer networking** and **Unix network programming
 * STM32
 * ESP32
 * ATmega328PB
+* NXP
 * ARM Cortex-M microcontrollers
 
-### Embedded & AI Tools
+### Embedded & AI Development Tools
 
 * STM32CubeIDE
-* ESP-IDF
 * CMSIS-RTOS v2
 * FreeRTOS
-* TensorFlow
 * STM32Cube.AI Studio
-
-### Development Tools
-
-* Git
 * VS Code
 * Cursor
+* Github Copilot
 
 ---
 
 ## Currently Learning 📚
 
-I am continuously developing my skills in embedded systems, firmware development, ARM Cortex-M microcontrollers, RTOS-based applications, AI-based solutions, software architecture, and GameDev. I am especially interested in combining low-level programming with modern AI tools, EdgeAI technologies, and well-structured software design.
+I am continuously developing my skills in embedded systems, firmware development, ARM Cortex-M microcontrollers, RTOS-based applications, AI-based solutions, software architecture. I am especially interested in combining low-level programming with modern AI tools, EdgeAI technologies, and well-structured software design.
 
 ---
 
